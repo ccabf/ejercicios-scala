@@ -19,7 +19,7 @@ object Funciones {
 
     //3.- Crea una función llamada divide que sea capaz de dividir dos números y devolver el
     //  resultado, comprueba con dos variables que funciona correctamente
-    println("EJERCICIO 3")
+    println("------------EJERCICIO 3------------")
     def div(a:Float,b:Float) ={
       var divi:Float = 0
       divi = a / b
@@ -30,7 +30,7 @@ object Funciones {
 
     //4.- Haz que los dos argumentos de la función divide sean opcionales, comprueba que se
     //  puede llamar a la función con todas las posibles combinaciones de parámetros de entrada
-    println("EJERCICIO 4")
+    println("------------EJERCICIO 4------------")
     def div2(a:Float=10,b:Float=2) ={
       var divi:Float = 0
       divi = a / b
