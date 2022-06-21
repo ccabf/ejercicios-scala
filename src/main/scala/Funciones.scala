@@ -39,6 +39,6 @@ object Funciones {
 
     println(div2(8))
     println(div2(b=5))
-
+    println("------------FIN DE LOS EJERCICIOS DE FUNCIONES------------")
   }
 }
