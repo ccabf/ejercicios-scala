@@ -6,7 +6,7 @@ object Funciones {
     //donde se resolverán el resto de ejercicios
     //2.- Crea una función llamada cuenta que sea capaz de imprimir por pantalla el número de
     //  elementos que tiene un listado, prueba la función con una variable de prueba
-    println("EJERCICIO 2")
+    println("------------EJERCICIO 2------------")
     def cuenta( l:List[Any]) :Int={
 
       var num_elem:Int=0
