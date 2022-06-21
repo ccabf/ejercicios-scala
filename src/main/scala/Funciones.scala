@@ -34,7 +34,7 @@ object Funciones {
     def div2(a:Float=10,b:Float=2) ={
       var divi:Float = 0
       divi = a / b
-      divi
+      println(divi)
     }
 
     println(div2(8))
